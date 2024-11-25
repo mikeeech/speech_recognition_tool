@@ -1,0 +1,7 @@
+pyttsx3==2.98
+SpeechRecognition==3.11.0
+standard-aifc
+pyaudio
+pipreqs
+pipdeptree
+flake8
